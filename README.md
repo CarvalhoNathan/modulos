@@ -106,12 +106,12 @@ console.log(INFOS.variavel);
 <script type="module" src="./main.js"></script>
 ```
 
-Para fazer testes localmente (de um arquivo no seu computador), será necessário estar rodando um servidor. Isso pode ser feito utilizando a extensão "Live Server", do VSCode.
+Para fazer testes localmente (de um arquivo no seu computador), será necessário estar rodando um servidor. Isso pode ser feito utilizando a extensão ```"Live Server"```, do VSCode.
 
 ## Outras curiosidades
 
 - Módulos sempre estão em "strict mode";
-- Podem ser utilizadas as extensões .js e .mjs;
+- Podem ser utilizadas as extensões ```.js e .mjs```;
 - Para testes locais, é necessário utilizar um servidor;
-- Ao importar, sempre lembre da extensão (.js, .mjs);
-- Ao importar, sempre utilize "./" como ponto de partida
+- Ao importar, sempre lembre da extensão ```(.js, .mjs)```;
+- Ao importar, sempre utilize ````"./"``` como ponto de partida

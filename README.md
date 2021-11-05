@@ -11,6 +11,8 @@ Módulos são arquivos Javascript que tem a capacidade de exportar e importar in
 - Compartilhamento de variáveis em escopos diferentes.
 - Explicita as dependências dos arquivos.
 
+![Importar](https://github.com/CarvalhoNathan/modulos/blob/main/importar.png)
+
 ## Exportar
 
 ### Named exports:
@@ -109,6 +111,8 @@ console.log(INFOS.variavel);
 Para fazer testes localmente (de um arquivo no seu computador), será necessário estar rodando um servidor. Isso pode ser feito utilizando a extensão ```"Live Server"```, do VSCode.
 
 ## Outras curiosidades
+
+![Curiosidades](https://github.com/CarvalhoNathan/modulos/blob/main/curiosidades.png)
 
 - Módulos sempre estão em "strict mode";
 - Podem ser utilizadas as extensões ```.js e .mjs```;

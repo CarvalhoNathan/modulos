@@ -1,7 +1,7 @@
 # Minhas anotações sobre o curso Trabalhando com módulos em JavaScript 
-### Curso feito na ([DIO](https://digitalinnovation.one/)):
+## Curso feito na ([DIO](https://digitalinnovation.one/)):
 
-## O que são módulos:
+## Aula 1 O que são módulos:
 
 Módulos são arquivos Javascript que tem a capacidade de exportar e importar informações de outros arquivos do mesmo tipo.
 

@@ -1,5 +1,4 @@
-# Minhas anotações sobre o curso Trabalhando com módulos em JavaScript 
-### Curso feito na ([DIO](https://digitalinnovation.one/)):
+# Minhas anotações sobre o curso ```Trabalhando com módulos em JavaScript``` - Curso feito na ([DIO](https://digitalinnovation.one/))
 
 ## Aula 1 O que são módulos:
 

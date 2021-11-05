@@ -86,7 +86,7 @@ export default mostraHobby;
 ```
 
 ### Trocando nome de imports
-```
+```js
 import {arquivo as Apelido} from './arquivo.js';
 
 Apelido.metodo();

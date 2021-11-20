@@ -1,4 +1,4 @@
-## Minhas anotações sobre o curso ```Trabalhando com Módulos em JavaScript```
+# Minhas anotações sobre o curso ```Trabalhando com Módulos em JavaScript```
 
 ## Aula 1 - O que são módulos:
 

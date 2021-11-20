@@ -1,4 +1,4 @@
-# Minhas anotações sobre o curso ```Trabalhando com módulos em JavaScript``` - Curso feito na ([DIO](https://digitalinnovation.one/))
+## Minhas anotações sobre o curso ```Trabalhando com Módulos em JavaScript```
 
 ## Aula 1 O que são módulos:
 
@@ -117,4 +117,4 @@ Para fazer testes localmente (de um arquivo no seu computador), será necessári
 - Podem ser utilizadas as extensões ```.js e .mjs```;
 - Para testes locais, é necessário utilizar um servidor;
 - Ao importar, sempre lembre da extensão ```(.js, .mjs)```;
-- Ao importar, sempre utilize ````"./"``` como ponto de partida
+- Ao importar, sempre utilize ```"./"``` como ponto de partida

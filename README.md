@@ -1,6 +1,6 @@
 ## Minhas anotações sobre o curso ```Trabalhando com Módulos em JavaScript```
 
-## Aula 1 O que são módulos:
+## Aula 1 - O que são módulos:
 
 Módulos são arquivos Javascript que tem a capacidade de exportar e importar informações de outros arquivos do mesmo tipo.
 
